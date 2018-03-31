@@ -93,14 +93,14 @@
                                 <div class="channel">
                                     <h3><span class="newsmore"><a href="http://news2.sysu.edu.cn">进入&gt;&gt;</a></span><span id="sysunews01" class="" onmouseover="switchNews('sysunews01','newslist01');this.blur();">中大新闻</span> <span id="sysunews02" class="newsdown" onmouseover="switchNews('sysunews02','newslist02');this.blur();" onclick="location.href='../en/news/index.htm';">NEWS &amp; EVENTS</span></h3>
                                     <div id="newslist01" class="">
-                                        <iframe id="ifzdxw" src="http://news2.sysu.edu.cn/news01/mainsysunews.htm?new=60717" frameborder="0" scrolling="no" height="252" width="356" noresize="noresize"></iframe>
+                                        <iframe id="ifzdxw" src="" frameborder="0" scrolling="no" height="252" width="356" noresize="noresize"></iframe>
                                     </div>
                                 </div>
                             </div>
                             <div class="channel_shadow">
                                 <div class="channel">
                                     <h3><span class="newsmore"><a href="http://news2.sysu.edu.cn/news03/index.htm">更多&gt;&gt;</a></span>媒体中大</h3>
-                                    <iframe id="ifmtzd" src="http://news2.sysu.edu.cn/news03/mainsysunews2.htm?new=60717" frameborder="0" scrolling="no" height="196" width="356" noresize="noresize"></iframe>
+                                    <iframe id="ifmtzd" src="" frameborder="0" scrolling="no" height="196" width="356" noresize="noresize"></iframe>
                                 </div>
                             </div>
                         </div>
@@ -132,7 +132,7 @@
                             <div class="channel_shadow">
                                 <div class="channel">
                                     <h3>中大校报</h3>
-                                    <iframe src="http://news2.sysu.edu.cn/sysunewspaper/scrollxb.htm" frameborder="0" scrolling="no" height="112" width="356" noresize="noresize"></iframe>
+                                    <iframe src="" frameborder="0" scrolling="no" height="112" width="356" noresize="noresize"></iframe>
                                 </div>
                             </div>
                         </div>
@@ -157,7 +157,7 @@
                                 </p>
                             </div>
                             <h4><span class="newsmore"><a href="http://news2.sysu.edu.cn/theory02/">更多&gt;&gt;</a></span>高教动态</h4>
-                            <iframe src="http://news2.sysu.edu.cn/theory02/mainsysunews3.htm" frameborder="0" scrolling="no" height="300" width="270" noresize="noresize"></iframe>
+                            <iframe src="" frameborder="0" scrolling="no" height="300" width="270" noresize="noresize"></iframe>
                             <h4>专题</h4>
                             <div class="commonline">
                                 <p style="text-align: center; padding: 10px 0px; border: 0px;">

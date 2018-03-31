@@ -5,7 +5,7 @@ body {
     margin: 0px;
     padding: 0px;
     /*background: #005825;*/
-    background: url(./images/bodybg.jpg) repeat-x #005825;
+    background: url(../images/bodybg.jpg) repeat-x #005825;
 }
 
 p {
@@ -123,7 +123,7 @@ p {
     vertical-align: middle;
     width: 74px;
     height: 28px;
-    background: url(./images/cnsearchbotton.png) no-repeat;
+    background: url(../images/cnsearchbotton.png) no-repeat;
     border: 0;
     margin: 0px 0px 0px 5px;
     cursor: pointer;
@@ -138,12 +138,12 @@ p {
 #nav .home {
     padding: 8px 10px 5px 15px;
     margin: 0px;
-    background: url(./images/home.gif) center no-repeat;
+    background: url(../images/home.gif) center no-repeat;
 }
 
 #nav .sp {
     padding: 10px 12px 10px 17px;
-    background: url(./images/nav-spe.jpg) no-repeat left;
+    background: url(../images/nav-spe.jpg) no-repeat left;
 }
 
 #subnav a:active, #subnav a:link, #subnav a:visited {
@@ -229,7 +229,7 @@ p {
 
 .channel_shadow {
     padding: 0px 0px 5px 0px;
-    background: url(./images/bo-shadow.jpg) no-repeat bottom center;
+    background: url(../images/bo-shadow.jpg) no-repeat bottom center;
 }
 
 .channel {
@@ -245,7 +245,7 @@ H3 {
     color: #006600;
     font-size: 14px;
     font-weight: bold;
-    background: url(./images/line.gif) repeat-x bottom;
+    background: url(../images/line.gif) repeat-x bottom;
 }
 
 .newsmore {
@@ -258,13 +258,13 @@ H3 {
 #sysunews01, #sysunews03 {
     padding: 0px 15px 0px 0px;
     margin: 0px 5px 0px 0px;
-    background: url(./images/title-spe.jpg) right no-repeat;
+    background: url(../images/title-spe.jpg) right no-repeat;
     cursor: pointer;
 }
 
 .channel LI {
     padding-left: 12px;
-    background: url(./images/dot.png) no-repeat left;
+    background: url(../images/dot.png) no-repeat left;
     font-size: 12px;
     font-weight: normal;
     line-height: 28px;
@@ -321,7 +321,7 @@ H4 {
     color: #006600;
     font-size: 14px;
     font-weight: bold;
-    background: url(./images/line.gif) repeat-x bottom;
+    background: url(../images/line.gif) repeat-x bottom;
 }
 
 .commonline {

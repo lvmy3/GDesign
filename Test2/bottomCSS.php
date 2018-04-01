@@ -3,7 +3,6 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>吕铭洋的博客</title>
-        <link rel="stylesheet" type="text/css" href="css/index.css">
     </head>
     <body> 
         <div class="ibody">
@@ -46,6 +45,7 @@
         </aside>
         <div class="clr"></div>
         </div>  
+        <link rel="stylesheet" type="text/css" href="css/index.css">
     </body>
 </html>
 

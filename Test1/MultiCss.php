@@ -5,10 +5,12 @@
     <title>我的博客</title>
     <script src="js/menu.js">
     </script>
-    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="css/first.css">
+    <link rel="stylesheet" type="text/css" href="css/second.css">
+    <link rel="stylesheet" type="text/css" href="css/third.css">
 </head>
 <body>
-	<div id="header">
+<div id="header">
             <div id="logo">
                 <img alt="中山大学" src="images/logo.jpg">
             </div>

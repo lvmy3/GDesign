@@ -3,7 +3,8 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>吕铭洋的博客</title>
-        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link rel="stylesheet" type="text/css" href="css/first.css">
+        <link rel="stylesheet" type="text/css" href="css/second.css">
     </head>
     <body> 
         <div class="ibody">

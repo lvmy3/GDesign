@@ -5,10 +5,9 @@
     <title>我的博客</title>
     <script src="js/menu.js">
     </script>
-    <link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
 <body>
-	<div id="header">
+<div id="header">
             <div id="logo">
                 <img alt="中山大学" src="images/logo.jpg">
             </div>
@@ -244,6 +243,7 @@
             <div class="copyright">中山大学版权所有 COPYRIGHT©1999-2013 , SUN YAT-SEN UNIVERSITY - <a href="#">联系我们</a> - <a href="#">网站地图</a> - <a href="#">粤ICP备05008892号</a></div>
 
         </div>
+        <link rel="stylesheet" type="text/css" href="css/index.css">
         <!--footer end-->
 </body>
 </html>
